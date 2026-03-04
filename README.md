@@ -15,6 +15,9 @@ The goal of Echo-Emote is to transcend simple text-based sentiment analysis. By 
 * **Infrastructure:** Developed on **Google Colab** to utilize T4 GPU acceleration, ensuring scalability and speed.
 * **Version Control:** Managed via Git/GitHub with a focus on clean repository architecture.
 
+
+### Clone the repo and upload the pkl files to google drive if you will use colab
+
 ---
 
 ## 📂 Repository Structure
@@ -25,4 +28,3 @@ The goal of Echo-Emote is to transcend simple text-based sentiment analysis. By 
 └── README.md               # Project documentation and setup guide
 
 
-### Clone the repo and upload the pkl files to google drive if you will use colab
