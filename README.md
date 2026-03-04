@@ -16,6 +16,11 @@ The goal of Echo-Emote is to transcend simple text-based sentiment analysis. By 
 * **Version Control:** Managed via Git/GitHub with a focus on clean repository architecture.
 
 
+
+
+
+
+
 ### Clone the repo and upload the pkl files to google drive if you will use colab
 
 ---
