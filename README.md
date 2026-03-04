@@ -23,3 +23,6 @@ The goal of Echo-Emote is to transcend simple text-based sentiment analysis. By 
 ├── notebooks/              # Google Colab notebooks for training and evaluation
 ├── .gitignore              # Strategic exclusion of large-scale datasets (>900MB)
 └── README.md               # Project documentation and setup guide
+
+
+### Clone the repo and upload the pkl files to google drive if you will use colab
